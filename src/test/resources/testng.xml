@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All">
+    <test name="injector">
+        <classes>
+            <class name="by.praded.dependency_injection.container.InjectorImplTest">
+            </class>
+        </classes>
+    </test>
+</suite>
